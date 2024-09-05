@@ -1,0 +1,5 @@
+pandas
+pyspark
+snowflake-connector-python
+fastapi
+uvicorn
