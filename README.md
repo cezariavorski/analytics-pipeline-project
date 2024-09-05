@@ -48,7 +48,7 @@ analytics-pipeline-project/
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/analytics-pipeline-project.git
+git clone https://github.com/cezariavorski/analytics-pipeline-project.git
 cd analytics-pipeline-project
 ```
 
